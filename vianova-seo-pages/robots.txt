@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.vianova.co.in/sitemap.xml
